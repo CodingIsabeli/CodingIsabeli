@@ -6,7 +6,7 @@
 
 <p style="margin-top: 16px;" align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,nodejs,postman,react,redis,supabase,ts,vercel,vscode,wordpress,windows" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,nodejs,py,postman,react,redis,mysql,supabase,vercel,vscode,wordpress,windows" />
   </a>
 </p>
  <!---
