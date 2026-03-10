@@ -1,12 +1,13 @@
-# 👩🏽‍💻 Hi, I’m Isabeli!
-> 👩‍🎓**Graduanda em Redes de Computadores**
-- 💻 Domino diversas linguagens de programação. No curso que estou me formando, me **destaco** por já possuir uma boa base sólida e acabo tendo bastante facilidade na **resolução** de problemas e entrega de resultado e valor.
-- 💞️ No momento, estou focado em aprimorar minhas habilidades de desenvolvimento web, especialmente em desenvolvimento **back-end**. Já possuo sólidos conhecimentos de arquitetura de sistema e **gestão de projetos**, onde pude provar minha capacidade de ser _líder_ e estou constantemente buscando novas maneiras de tornar minhas criações web mais interativas e dinâmicas;
-- ⚡ Curiosidade: Comecei o curso técnico em informática no ensino profissionalizante, sendo majoritariamente voltado para hardware, porém, quando comecei a me interessar por programação, descobri meu real caminho.
+# 👩🏽‍💻 Olá, eu sou Isabeli!
+- 👩‍🎓**Graduanda em Sistemas de Informação pela Universidade Federal do Ceará (UFC) – Campus Quixadá.**
+- 💻 Técnica em Informática, com interesse em desenvolvimento de software e desenvolvimento web. Possuo base em lógica de programação e estou constantemente aprimorando meus conhecimentos em tecnologias utilizadas no desenvolvimento de aplicações.
+- 🚀 Atualmente estou focada em aprimorar minhas habilidades em desenvolvimento web, estudando tecnologias utilizadas tanto no **front-end** quanto no **back-end**, além de boas práticas de organização de código e **desenvolvimento de software**.
+- ⚡ Curiosidade: Comecei o curso técnico em informática no ensino profissionalizante, inicialmente com foco em hardware, porém, quando comecei a me interessar por programação, descobri meu real caminho.
+- 🧠 Tenho facilidade em lógica de programação, resolução de problemas e aprendizado de novas tecnologias, buscando sempre evoluir como desenvolvedora.
 
 <p style="margin-top: 16px;" align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,py,nodejs,postman,react,redis,mysql,supabase,vercel,vscode,wordpress,windows" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,py,nodejs,react,mysql,supabase,vercel,vscode,wordpress,windows" />
   </a>
 </p>
  <!---
